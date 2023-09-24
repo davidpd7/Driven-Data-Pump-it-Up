@@ -1,0 +1,16 @@
+markdown
+pandas
+pandas-profiling
+matplotlib
+seaborn
+numPy
+nbformat==4.2.0
+ipywidgets
+openpyxl
+pca
+plotly
+pycaret
+pycountry
+sciPy
+scikit-learn
+statsmodels
